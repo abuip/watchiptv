@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,3sat HD
+http://62.65.140.154:80/session/464b8dec-e55e-11e5-91fc-005056bc49ac/nvnv5a/1/1117/4240000/index.m3u8?token=9094f8442e8628a791543cfcc7588720_1454776355_1454776355&p=127|X-Forwarded-For=85.2.170.190
 #EXTINF:-1 tvg-name="DE:Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",DE:Kabel1
 http://212.8.253.47:88/555155895930609/555155895930609/274
 #EXTINF:-1 tvg-name="DE:VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",DE:VOX
