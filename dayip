@@ -1565,3 +1565,5 @@ http://fullhdp.servep2p.com:3500/live/caglar.kilit/ilas.zingh.org:/19705.ts
 http://fullhdp.servep2p.com:3500/live/caglar.kilit/ilas.zingh.org:/19704.ts
 #EXTINF:0,AFG: Zhwandoon TV
 http://fullhdp.servep2p.com:3500/live/caglar.kilit/ilas.zingh.org:/19723.ts
+#EXTINF:0 tvg-name="TOLO TV" tvg-language="Pashto" tvg-country="AF" tvg-id="TOLO TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSivQl16KZWziJvXjFAix4XTrstGlr6JzLNGl3XMiv_DgfmyWyX_u8PxQ" group-title="Entertainment",TOLO TV (Entertainment) (AF) (Pashto)
+http://208.93.117.113/live/Streamm22/playlist.m3u8
