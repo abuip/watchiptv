@@ -347,3 +347,17 @@ http://smart-hdip.com:6204/lava1/lava1/12323
 http://smart-hdip.com:6204/lava1/lava1/12325
 #EXTINF:-1,De- Sky Sport 5 HD
 http://smart-hdip.com:6204/lava1/lava1/12324
+#EXTINF:0,DE: Sky Atlantic
+http://cms.bossna-caffe.com:80/live?channelId=1020&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
+#EXTINF:0,DE: Sky Krimi
+http://cms.bossna-caffe.com:80/live?channelId=204&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
+#EXTINF:0,DE: Sky Action
+http://cms.bossna-caffe.com:80/live?channelId=19&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
+#EXTINF:0,DE: Sky Cinema +24
+http://cms.bossna-caffe.com:80/live?channelId=198&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
+#EXTINF:0,DE: Sky Cinema
+http://cms.bossna-caffe.com:80/live?channelId=22&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
+#EXTINF:0,Sky Comedy
+http://cms.bossna-caffe.com:80/live?channelId=23&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
+#EXTINF:0,Sky Hits
+http://cms.bossna-caffe.com:80/live?channelId=261&deviceUser=109mates&devicePass=H68tRepA88BfJFxG&uid=7603
